@@ -1,0 +1,1 @@
+iwBase is a barebones responsive starter template for Habari. It includes fixed and fluid stylesheets using media queries to support a variety of displays. iwBase uses a two column layout with areas for a content-width top banner, a sidebar, and a full width bottom banner.
