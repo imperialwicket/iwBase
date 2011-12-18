@@ -36,7 +36,6 @@
                     <?php } ?>
                     <?php $theme->display ( 'comments' ); ?>
                 </footer>
-            </article>
-        </section>	    
+            </article>	    
 	    <?php $theme->display ( 'sidebar' ); ?>
 <?php $theme->display ( 'footer' ); ?>
