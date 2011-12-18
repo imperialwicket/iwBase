@@ -360,7 +360,7 @@ input#s{
 ================================================== */
 
 .main{
-    width:1200px;
+    width:90%;
     margin:20px auto;
     }
 nav ul li{
@@ -374,9 +374,12 @@ nav ul li a{
 section.main{
     margin:0 auto;
     }
+section#banner-top{
+    margin:0 0 20px 0;
+    }
 section#entries{
     width:66%;
-    margin: 0 4% 20px 0;
+    margin:0 4% 20px 0;
     float:left;
     }
 article{
@@ -385,6 +388,9 @@ article{
 article>header,article>section,article>footer{
     margin:0 0 20px 0;
     width:100%;
+    }
+section#banner-bottom{
+    margin:0 0 20px 0;
     }   
 aside#sidebar{
     width:30%;
